@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = AzureServices
+build_property.ProjectDir = D:\POC\DevAPI-master\AzureServices\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
